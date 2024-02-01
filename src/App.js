@@ -1,5 +1,4 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import "./css/Main.css";
 import SignUp from "./component/SignUp";
 import Login from "./component/Login";
 import { Flex } from "antd";
